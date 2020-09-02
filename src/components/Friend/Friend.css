@@ -1,0 +1,10 @@
+.friend-content {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(200, 228, 230);
+  border-radius: 15px;
+  margin: auto;
+  margin-bottom: 2%;
+  padding: 2%;
+}
